@@ -1,0 +1,7 @@
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/zarchive.dir
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/edit_cache.dir
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/rebuild_cache.dir
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/list_install_components.dir
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/install.dir
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/install/local.dir
+/home/jon/zarchive_flutter/zarchive/build/CMakeFiles/install/strip.dir

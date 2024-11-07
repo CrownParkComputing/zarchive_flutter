@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -fPIC -shared -Wl,-soname,libzarchive.so -o libzarchive.so CMakeFiles/zarchive.dir/zarchivewriter.cc.o CMakeFiles/zarchive.dir/zarchivereader.cc.o CMakeFiles/zarchive.dir/zarchive_ffi.cc.o CMakeFiles/zarchive.dir/sha_256.cc.o  -lzstd
