@@ -5,6 +5,7 @@ version: 1.0.0+1
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=3.13.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -15,7 +16,7 @@ dependencies:
   path: ^1.8.3
   shared_preferences: ^2.2.1
   provider: ^6.0.5
-  collection: ^1.17.0
+  collection: ^1.18.0
   win32: ^5.2.0
 
 dev_dependencies:
@@ -25,3 +26,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+platforms:
+  linux:
+    enable: true
