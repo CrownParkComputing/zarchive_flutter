@@ -16,7 +16,7 @@ dependencies:
   path: ^1.8.3
   shared_preferences: ^2.2.1
   provider: ^6.0.5
-  win32: ^5.2.0
+  win32: ^5.1.1
 
 dev_dependencies:
   flutter_test:
